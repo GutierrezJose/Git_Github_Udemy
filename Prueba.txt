@@ -9,3 +9,5 @@ Git mi nombre es Jose
 La fecha es 2023.
 
 Modificamos usuario  y contrasena
+
+Comenzando con Git
